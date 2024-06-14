@@ -1,4 +1,4 @@
-# Oscillation_Izhikevich_Tomov2014
+# Tomov2014_Oscillation_Izhikevich_replicate
 
 Replication of Tomov et al. 2014's "Sustained oscillations, irregular firing, and chaotic dynamics in hierarchical modular networks with mixtures of electrophysiological cell types".
 
